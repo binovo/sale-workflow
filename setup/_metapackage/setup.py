@@ -83,6 +83,7 @@ setuptools.setup(
         'odoo-addon-sale_order_product_recommendation_packaging_default>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_product_recommendation_quick_add>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_qty_change_no_recompute>=16.0dev,<16.1dev',
+        'odoo-addon-sale_order_recurrence>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_report_without_price>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_revision>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_safe_commitment_date>=16.0dev,<16.1dev',
