@@ -27,6 +27,7 @@ addon | version | maintainers | summary
 [portal_sale_order_search](portal_sale_order_search/) | 16.0.1.0.1 | <a href='https://github.com/pilarvargas-tecnativa'><img src='https://github.com/pilarvargas-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='pilarvargas-tecnativa'/></a> | Allow customers to set and search their own order reference in portal
 [portal_sale_personal_data_only](portal_sale_personal_data_only/) | 16.0.1.0.0 |  | Portal Sale Personal Data Only
 [pricelist_cache](pricelist_cache/) | 16.0.1.0.0 |  | Provide a new model to cache price lists and update it, to make it easier to retrieve them.
+[pricelist_price_base_custom](pricelist_price_base_custom/) | 16.0.1.0.0 |  | Use custom value as a base for pricelist calculation.
 [product_form_sale_link](product_form_sale_link/) | 16.0.1.0.1 |  | Adds a button on product forms to access Sale Lines
 [product_price_category](product_price_category/) | 16.0.1.0.0 | <a href='https://github.com/sbejaoui'><img src='https://github.com/sbejaoui.png' width='32' height='32' style='border-radius:50%;' alt='sbejaoui'/></a> | Add Price Category field on product and allow to apply a pricelist on this field.
 [product_supplierinfo_for_customer_sale](product_supplierinfo_for_customer_sale/) | 16.0.1.0.2 |  | Loads in every sale order line the customer code defined in the product
@@ -51,7 +52,7 @@ addon | version | maintainers | summary
 [sale_force_invoiced](sale_force_invoiced/) | 16.0.2.1.2 |  | Allows to force the invoice status of the sales order to Invoiced
 [sale_force_invoiced_quantity](sale_force_invoiced_quantity/) | 16.0.1.0.0 |  | Add manual invoice quantity in sales order lines
 [sale_fully_invoiced](sale_fully_invoiced/) | 16.0.1.0.0 |  | Useful filters in Sales to know the actual status of invoices.
-[sale_global_discount](sale_global_discount/) | 16.0.1.0.0 |  | Sale Global Discount
+[sale_global_discount](sale_global_discount/) | 16.0.2.0.0 |  | Sale Global Discount
 [sale_invoice_blocking](sale_invoice_blocking/) | 16.0.1.0.1 |  | Allow you to block the creation of invoices from a sale order.
 [sale_invoice_frequency](sale_invoice_frequency/) | 16.0.1.2.1 | <a href='https://github.com/Shide'><img src='https://github.com/Shide.png' width='32' height='32' style='border-radius:50%;' alt='Shide'/></a> <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> <a href='https://github.com/EmilioPascual'><img src='https://github.com/EmilioPascual.png' width='32' height='32' style='border-radius:50%;' alt='EmilioPascual'/></a> | Define the invoice frequency for customers
 [sale_invoice_plan](sale_invoice_plan/) | 16.0.1.0.0 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Add to sales order, ability to manage future invoice plan

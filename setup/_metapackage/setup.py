@@ -14,6 +14,7 @@ setuptools.setup(
         'odoo-addon-portal_sale_order_search>=16.0dev,<16.1dev',
         'odoo-addon-portal_sale_personal_data_only>=16.0dev,<16.1dev',
         'odoo-addon-pricelist_cache>=16.0dev,<16.1dev',
+        'odoo-addon-pricelist_price_base_custom>=16.0dev,<16.1dev',
         'odoo-addon-product_form_sale_link>=16.0dev,<16.1dev',
         'odoo-addon-product_price_category>=16.0dev,<16.1dev',
         'odoo-addon-product_supplierinfo_for_customer_sale>=16.0dev,<16.1dev',
