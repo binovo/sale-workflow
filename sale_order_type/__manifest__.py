@@ -31,5 +31,6 @@
         "reports/account_invoice_report_view.xml",
         "reports/sale_report_view.xml",
     ],
+    "post_init_hook": "assign_default_sale_type",
     "installable": True,
 }

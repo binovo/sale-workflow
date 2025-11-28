@@ -3,3 +3,4 @@
 from . import models
 from . import reports
 from . import wizards
+from .hooks import assign_default_sale_type
