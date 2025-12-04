@@ -11,6 +11,7 @@ setuptools.setup(
         'odoo-addon-account_invoice_pricelist_technical>=16.0dev,<16.1dev',
         'odoo-addon-partner_contact_sale_info_propagation>=16.0dev,<16.1dev',
         'odoo-addon-partner_sale_pivot>=16.0dev,<16.1dev',
+        'odoo-addon-portal_sale_accept_terms>=16.0dev,<16.1dev',
         'odoo-addon-portal_sale_order_search>=16.0dev,<16.1dev',
         'odoo-addon-portal_sale_personal_data_only>=16.0dev,<16.1dev',
         'odoo-addon-pricelist_cache>=16.0dev,<16.1dev',
