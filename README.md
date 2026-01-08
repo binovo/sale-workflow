@@ -139,6 +139,7 @@ addon | version | maintainers | summary
 [sale_product_set](sale_product_set/) | 16.0.3.0.0 |  | Sale product set
 [sale_quotation_number](sale_quotation_number/) | 16.0.2.0.0 |  | Different sequence for sale quotations
 [sale_readonly_security](sale_readonly_security/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Sale Readonly Security
+[sale_resource_booking](sale_resource_booking/) | 16.0.1.0.0 | <a href='https://github.com/Yajo'><img src='https://github.com/Yajo.png' width='32' height='32' style='border-radius:50%;' alt='Yajo'/></a> | Link resource bookings with sales
 [sale_restricted_qty](sale_restricted_qty/) | 16.0.1.0.0 | <a href='https://github.com/ashishhirapara'><img src='https://github.com/ashishhirapara.png' width='32' height='32' style='border-radius:50%;' alt='ashishhirapara'/></a> | Sale order min quantity
 [sale_shipping_info_helper](sale_shipping_info_helper/) | 16.0.1.0.0 |  | Add shipping amounts on sale order
 [sale_sourced_by_line](sale_sourced_by_line/) | 16.0.1.0.0 |  | Multiple warehouse source locations for Sale order
