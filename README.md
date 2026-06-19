@@ -61,8 +61,8 @@ addon | version | maintainers | summary
 [sale_invoice_policy](sale_invoice_policy/) | 16.0.3.0.0 |  | Sales Management: let the user choose the invoice policy on the order
 [sale_invoice_split_payment](sale_invoice_split_payment/) | 16.0.1.0.0 |  | Split by payment term generated invoices from sale orders
 [sale_last_price_info](sale_last_price_info/) | 16.0.1.0.0 |  | Product Last Price Info - Sale
-[sale_loyalty_exclude](sale_loyalty_exclude/) | 16.0.1.1.0 |  | Exclude products from sale loyalty program
-[sale_manual_delivery](sale_manual_delivery/) | 16.0.1.0.3 |  | Create manually your deliveries
+[sale_loyalty_exclude](sale_loyalty_exclude/) | 16.0.1.2.0 |  | Exclude products from sale loyalty program
+[sale_manual_delivery](sale_manual_delivery/) | 16.0.1.1.0 |  | Create manually your deliveries
 [sale_margin_update](sale_margin_update/) | 16.0.1.0.0 |  | Recalculate expected unit price from margin.
 [sale_mrp_bom](sale_mrp_bom/) | 16.0.1.0.0 |  | Allows define a BOM in the sales lines.
 [sale_numeric_step](sale_numeric_step/) | 16.0.1.0.1 | <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> <a href='https://github.com/yajo'><img src='https://github.com/yajo.png' width='32' height='32' style='border-radius:50%;' alt='yajo'/></a> | Improve mobile/tablet sale process by adding numeric step widgets
@@ -74,7 +74,7 @@ addon | version | maintainers | summary
 [sale_order_end_user](sale_order_end_user/) | 16.0.1.0.0 |  | Allows to define the end user in sale orders if there is an intermediate between shipping and this end user
 [sale_order_general_discount](sale_order_general_discount/) | 16.0.1.2.0 |  | General discount per sale order
 [sale_order_general_discount_triple](sale_order_general_discount_triple/) | 16.0.2.1.0 | <a href='https://github.com/ashishhirapara'><img src='https://github.com/ashishhirapara.png' width='32' height='32' style='border-radius:50%;' alt='ashishhirapara'/></a> | General discount per sale order with triple
-[sale_order_invoice_amount](sale_order_invoice_amount/) | 16.0.1.0.2 |  | Display the invoiced and uninvoiced total in the sale order
+[sale_order_invoice_amount](sale_order_invoice_amount/) | 16.0.1.0.3 |  | Display the invoiced and uninvoiced total in the sale order
 [sale_order_invoicing_finished_task](sale_order_invoicing_finished_task/) | 16.0.2.0.0 |  | Control invoice order lines if their related task has been set to invoiceable
 [sale_order_invoicing_picking_filter](sale_order_invoicing_picking_filter/) | 16.0.1.1.0 |  | Create invoices from sale orders based on the products in pickings.
 [sale_order_line_cancel](sale_order_line_cancel/) | 16.0.2.0.0 |  | Sale cancel remaining
@@ -127,7 +127,7 @@ addon | version | maintainers | summary
 [sale_partner_pricelist](sale_partner_pricelist/) | 16.0.1.0.0 |  | Sale Partner Pricelist
 [sale_partner_selectable_option](sale_partner_selectable_option/) | 16.0.1.1.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Sale Partner Selectable Option
 [sale_payment_sheet](sale_payment_sheet/) | 16.0.1.1.3 | <a href='https://github.com/sergio-teruel'><img src='https://github.com/sergio-teruel.png' width='32' height='32' style='border-radius:50%;' alt='sergio-teruel'/></a> | Allow to create invoice payments to commercial users without accounting permissions
-[sale_planner_calendar](sale_planner_calendar/) | 16.0.3.0.1 |  | Sale planner calendar
+[sale_planner_calendar](sale_planner_calendar/) | 16.0.3.1.0 |  | Sale planner calendar
 [sale_price_compliance](sale_price_compliance/) | 16.0.1.0.1 | <a href='https://github.com/Shide'><img src='https://github.com/Shide.png' width='32' height='32' style='border-radius:50%;' alt='Shide'/></a> <a href='https://github.com/rafaelbn'><img src='https://github.com/rafaelbn.png' width='32' height='32' style='border-radius:50%;' alt='rafaelbn'/></a> | Visual price compliance based on product, category and company thresholds
 [sale_pricelist_display_surcharge](sale_pricelist_display_surcharge/) | 16.0.1.0.0 |  | This module shows to the customer the surcharges if wanted.
 [sale_pricelist_from_commitment_date](sale_pricelist_from_commitment_date/) | 16.0.1.0.1 |  | Use sale order commitment date to compute line price from pricelist
