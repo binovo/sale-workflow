@@ -39,7 +39,7 @@ addon | version | maintainers | summary
 [sale_automatic_workflow](sale_automatic_workflow/) | 16.0.1.1.1 |  | Sale Automatic Workflow
 [sale_automatic_workflow_job](sale_automatic_workflow_job/) | 16.0.1.0.0 |  | Execute sale automatic workflows in queue jobs
 [sale_automatic_workflow_payment_mode](sale_automatic_workflow_payment_mode/) | 16.0.1.0.0 |  | Sale Automatic Workflow - Payment Mode
-[sale_blanket_order](sale_blanket_order/) | 16.0.2.0.2 |  | Blanket Orders
+[sale_blanket_order](sale_blanket_order/) | 16.0.2.2.0 |  | Blanket Orders
 [sale_block_no_stock](sale_block_no_stock/) | 16.0.2.0.0 | <a href='https://github.com/Shide'><img src='https://github.com/Shide.png' width='32' height='32' style='border-radius:50%;' alt='Shide'/></a> | Block Sales if products has not enough Quantity based on a chosen field
 [sale_cancel_reason](sale_cancel_reason/) | 16.0.1.0.1 |  | Sale Cancel Reason
 [sale_commercial_partner](sale_commercial_partner/) | 16.0.1.0.1 | <a href='https://github.com/alexis-via'><img src='https://github.com/alexis-via.png' width='32' height='32' style='border-radius:50%;' alt='alexis-via'/></a> | Add stored related field 'Commercial Entity' on sale orders
@@ -60,6 +60,7 @@ addon | version | maintainers | summary
 [sale_invoice_plan](sale_invoice_plan/) | 16.0.1.0.0 | <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Add to sales order, ability to manage future invoice plan
 [sale_invoice_policy](sale_invoice_policy/) | 16.0.3.0.0 |  | Sales Management: let the user choose the invoice policy on the order
 [sale_invoice_split_payment](sale_invoice_split_payment/) | 16.0.1.0.0 |  | Split by payment term generated invoices from sale orders
+[sale_isolated_quotation](sale_isolated_quotation/) | 16.0.1.0.0 | <a href='https://github.com/bealdav'><img src='https://github.com/bealdav.png' width='32' height='32' style='border-radius:50%;' alt='bealdav'/></a> <a href='https://github.com/kittiu'><img src='https://github.com/kittiu.png' width='32' height='32' style='border-radius:50%;' alt='kittiu'/></a> | Sale Isolated Quotation
 [sale_last_price_info](sale_last_price_info/) | 16.0.1.0.0 |  | Product Last Price Info - Sale
 [sale_loyalty_exclude](sale_loyalty_exclude/) | 16.0.1.2.0 |  | Exclude products from sale loyalty program
 [sale_manual_delivery](sale_manual_delivery/) | 16.0.1.1.0 |  | Create manually your deliveries
@@ -77,8 +78,8 @@ addon | version | maintainers | summary
 [sale_order_invoice_amount](sale_order_invoice_amount/) | 16.0.1.0.3 |  | Display the invoiced and uninvoiced total in the sale order
 [sale_order_invoicing_finished_task](sale_order_invoicing_finished_task/) | 16.0.2.0.0 |  | Control invoice order lines if their related task has been set to invoiceable
 [sale_order_invoicing_picking_filter](sale_order_invoicing_picking_filter/) | 16.0.1.1.0 |  | Create invoices from sale orders based on the products in pickings.
-[sale_order_line_cancel](sale_order_line_cancel/) | 16.0.2.0.0 |  | Sale cancel remaining
-[sale_order_line_cancel_sale_stock](sale_order_line_cancel_sale_stock/) | 16.0.2.0.0 |  | Sale cancel remaining stock
+[sale_order_line_cancel](sale_order_line_cancel/) | 16.0.2.0.1 |  | Sale cancel remaining
+[sale_order_line_cancel_sale_stock](sale_order_line_cancel_sale_stock/) | 16.0.2.0.1 |  | Sale cancel remaining stock
 [sale_order_line_date](sale_order_line_date/) | 16.0.1.1.2 |  | Adds a commitment date to each sale order line.
 [sale_order_line_delivery_state](sale_order_line_delivery_state/) | 16.0.1.0.0 |  | Show the delivery state on the sale order line
 [sale_order_line_description](sale_order_line_description/) | 16.0.1.0.0 |  | Sale order line description
